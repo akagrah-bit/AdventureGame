@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "welcome to the Adventure Game!"
+echo "welcome to the Ultimate Adventure Game!"
 echo "Choose a location to explore: forest, castle, or cave."
 read location
 if [ "$location" == "forest" ]; then
